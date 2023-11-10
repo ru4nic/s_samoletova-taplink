@@ -35,7 +35,7 @@ function App() {
         <ButtonsWrapp $firstSection>
           <Button
             $site
-            href="https://my1hat.github.io/s_samoletova/"
+            href="https://ru4nic.github.io/s_samoletova/"
             target="_blank"
             rel="noreferrer"
           >
